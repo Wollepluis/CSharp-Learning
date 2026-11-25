@@ -1,0 +1,4 @@
+﻿// Console.ReadLine() prompts a question, use a variable to "save" the user's answer.
+Console.Write("What is your favorite color? ");
+string? favoriteColor = Console.ReadLine();
+System.Console.WriteLine("Oh, I love " + favoriteColor + " too!");
